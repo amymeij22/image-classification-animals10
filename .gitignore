@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Local archives and temporary exports
+submission_image_classification.zip
+*.zip
+
+# Keep model export folders tracked, but ignore common local scratch files if they appear
+*.log
+*.tmp
